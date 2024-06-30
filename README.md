@@ -1,6 +1,6 @@
 # Windows Activation License Key Tool
 
-![Windows 10 Activation Tool](https://github.com/ErjonKurti/WindowsActivae/blob/master/win10.jpg)
+![Windows 10 Activation Tool](https://github.com/ErjonKurti/WindowsActivate/blob/master/win10.jpg)
 
 Activate is a simple Java-based GUI program that allows users to activate different versions of Windows 10 (Home, Pro, Edu, etc.) with a single click using CMD commands.
 
